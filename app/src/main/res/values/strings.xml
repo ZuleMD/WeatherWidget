@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Weather Live</string>
+    <string name="appwidget_text">Weather Live</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="cancel">cancel</string>
+    <string name="GPSAlertDialogTitle">GPSAlertDialogTitle</string>
+    <string name="GPSAlertDialogMessage">GPSAlertDialogMessage</string>
+    <string name="action_settings">action_settings</string>
+    <string name="humidity">Humidity</string>
+    <string name="humidity_value">60%</string>
+    <string name="wind">Wind</string>
+    <string name="nw_6_mph">4 M/S</string>
+    <string name="precipitation">Precipitation</string>
+    <string name="precipitation_value">2%</string>
+    <string name="date">Today</string>
+    <string name="temperature">21</string>
+    <string name="degree">°C</string>
+    <string name="city">Rades, TN</string>
+    <string name="sunny">clear sky</string>
+    <string name="condition_image">Condition Image</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunrise_time">6:26 AM</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunset_image">Sunset Image</string>
+    <string name="sunrise_image">Sunrise Image</string>
+    <string name="sunset_time">7:46 PM</string>
+</resources>

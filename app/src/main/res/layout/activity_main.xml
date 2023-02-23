@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/home_bg"
+    tools:context=".MainActivity">
+
+    <ProgressBar
+        android:id="@+id/pb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:visibility="visible" />
+
+    <include
+        android:id="@+id/layout_today_weather"
+        layout="@layout/layout_today_weather" />
+
+    <include
+        android:id="@+id/layout_today_weather_additional_info"
+        layout="@layout/layout_today_weather_additional_info" />
+    <include
+        android:id="@+id/layout_daily_weather"
+        layout="@layout/layout_daily_weather" />
+
+</LinearLayout>
